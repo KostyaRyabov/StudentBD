@@ -1,0 +1,13 @@
+C:\programming\с#\StudentBD\StudentBD\bin\Debug\StudentBD.exe.config
+C:\programming\с#\StudentBD\StudentBD\bin\Debug\StudentBD.exe
+C:\programming\с#\StudentBD\StudentBD\bin\Debug\StudentBD.pdb
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.csprojAssemblyReference.cache
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.Form1.resources
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.Properties.Resources.resources
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.GenerateResource.cache
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.CoreCompileInputs.cache
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.exe
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.pdb
+C:\programming\с#\StudentBD\StudentBD\bin\Debug\IronPdf.dll
+C:\programming\с#\StudentBD\StudentBD\bin\Debug\IronPdf.xml
+C:\programming\с#\StudentBD\StudentBD\obj\Debug\StudentBD.csproj.CopyComplete
